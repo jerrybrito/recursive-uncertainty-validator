@@ -1,0 +1,2 @@
+# Requires: hypothetical-silence
+# (Not available on PyPI)
